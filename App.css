@@ -1,0 +1,18 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.skin-tile {
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+.skin-tile img {
+  width: 100px;
+  height: 100px;
+}
